@@ -1,0 +1,19 @@
+﻿# include <stdio.h>
+
+//  https://www.beecrowd.com.br/judge/pt/problems/view/3037
+int main(void) {
+	int x,d,n,i,pontM, pontJ;
+	scanf("%d", &n);
+	while (n != 0) {
+		pontJ = 0, pontM = 0;
+		for(i=1; i<=6; i++) {
+			scanf("%d %d", &x, &d);
+			if( i<=3 ) pontJ += x*d;
+			else pontM += x*d;
+		}
+		printf((pontJ > pontM ? "JOAO\n" : "MARIA\n"));
+		n--;
+	}
+
+	return 0;
+}
