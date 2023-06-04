@@ -32,8 +32,8 @@ A plataforma possui um grande repositório exercícios, logo, sempre a utilizo p
 Sempre que eu realizar uma série de exercícios, atualizarei o repositório com os códigos desenvolvidos por mim. Cada código terá o número do exercício no nome do arquivo e o link comentado dentro dele, para um rápido acesso do enunciado do problema.  
 **Obs.:** O repositório está dividido em pastas, de acordo com a linguagem utilizada para a resolução do exercício.
 
-**Quantidade de problemas resolvidos desde a última atualização:** 57;  
-**Última atualização do repositório:** 12/03/2023.
+**Quantidade de problemas resolvidos desde a última atualização:** 65;  
+**Última atualização do repositório:** 04/06/2023.
 
 **Tecnologias utilizadas:**
 
