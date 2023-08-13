@@ -44,5 +44,5 @@ Sempre que eu realizar uma série de exercícios, atualizarei o repositório com
 
 # **Autor**
 **Guilherme Vaiano Nogueira Mendonça**  
-Perfil do Beecrowd: https://www.beecrowd.com.br/judge/pt/profile/612792  
-LinkedIn: https://www.linkedin.com/in/guilherme-mendon%C3%A7a-12a83720b/  
+[Perfil do Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/612792)  
+[LinkedIn](https://www.linkedin.com/in/guilherme-vaiano/)
